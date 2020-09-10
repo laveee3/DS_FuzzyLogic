@@ -1,5 +1,7 @@
 # DataScience
 Problem:
+Compare and find the difference between huge data file(csv)(contains latest data) and database data (not up-to-date) and update the database with new info from csv file.
+
 Oracle database - has millions of records of the people who belong and who belonged to the Institutions. 
 Various details of the people are there. This work revolves around the contact information like email, phone and address.
 Many a times we get large csv files with current details of people. The csv files would have records between 1000 to 500000.
