@@ -64,4 +64,12 @@ Total Changes	3XXXX
 The code that I have uploaded is rewritten instead of uploading the original. In this program, i have used fake data as input and also its a small file. This have reduced many lines of code which was written to handle the scalability for big-data. Not only the lines of code, but also the number of programs used. What was originally 4 separate programs is made into one here. For real data and huge data we cant use this single file, it needs to be 4 separate py scripts. Also, I have included the code that connects to the data base but for time-being I am importing database data from excel file.
 Please free to download this folder and see the results by running the program.
 
+Files: Input files - FakeContact.csv and db_data
+Program: DS_fuzzyLoic_Visualization
+
+Other files:
+These were used in the original work but not needed here. Still since they are related have included in this package.
+Program: Fakecontact - program that generated fake data, 
+split csv - to split csv
+
 
