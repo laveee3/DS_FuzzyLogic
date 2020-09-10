@@ -61,5 +61,7 @@ Email	6XXX
 Phone	1XXXX
 Total Changes	3XXXX
 
+The code that I have uploaded is rewritten instead of uploading the original. In this program, i have used fake data as input and also its a small file. This have reduced many lines of code which was written to handle the scalability for big-data. Also, I have included the code that connects to the data base but for time-being I am importing database data from excel file.
+Please free to download this folder and see the results by running the program.
 
 
